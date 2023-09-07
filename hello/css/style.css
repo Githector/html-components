@@ -1,0 +1,11 @@
+.helloclass{
+    background-color: blue;
+    font-weight: bold;
+    color: green;
+
+}
+
+:host {
+    background-color: aqua;
+    transform: rotate(180deg);
+  }
